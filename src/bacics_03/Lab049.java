@@ -1,5 +1,7 @@
 package src.bacics_03;
 
+import java.util.Scanner;
+
 public class Lab049
 {
     public static void main(String[] args)
@@ -24,6 +26,8 @@ public class Lab049
         // If, else if , else
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number:- ");
+
         int number = sc.nextInt();
 
         if( number > 20){
