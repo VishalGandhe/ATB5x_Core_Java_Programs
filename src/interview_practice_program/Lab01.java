@@ -6,7 +6,7 @@ public class Lab01
 {
     public static void main(String[] args)
     {
-        // This program is ask is in interview
+        // This program is ask in interview
         //  A = x^2
         // B - y^2
         // c = |z| ->
