@@ -1,8 +1,8 @@
-package src.basics_04;
+package src.interview_practice_program;
 
 import java.util.Scanner;
 
-public class Lab063
+public class Lab01
 {
     public static void main(String[] args)
     {
@@ -29,8 +29,6 @@ public class Lab063
         System.out.println(result);
 
         sc.close();
-
-
 
 
 
