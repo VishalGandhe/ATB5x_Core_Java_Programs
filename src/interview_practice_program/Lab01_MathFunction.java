@@ -2,7 +2,7 @@ package src.interview_practice_program;
 
 import java.util.Scanner;
 
-public class Lab01
+public class Lab01_MathFunction
 {
     public static void main(String[] args)
     {
